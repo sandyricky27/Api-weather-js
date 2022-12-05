@@ -15,8 +15,7 @@ btnSearch.addEventListener("click", function () {
             element = showData(data)
             container.innerHTML = element
 
-            // const current = data.current;
-            // const location = data.location
+           
         })
 })
 
