@@ -1,0 +1,31 @@
+#row{
+    text-align: center;
+    margin-top: 8%;
+}
+
+#row input{
+    height: 30px;
+    width: 250px;
+   
+}
+
+#row button{
+    height: 35px;
+    width: 100px;
+    background-color: black;
+    color: #fff;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+#container h3,p{
+    font-size: 25px;
+    
+}
+
+.boc{
+    padding: 20px;
+    width: 200px;
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
